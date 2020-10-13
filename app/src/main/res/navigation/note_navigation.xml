@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/note_navigation"
+    app:startDestination="@id/notesFragment">
+
+    <fragment
+        android:id="@+id/notesFragment"
+        android:name="com.nihad.notes.ui.notes.main.NotesFragment"
+        android:label="NotesFragment" >
+        <action
+            android:id="@+id/action_notesFragment_to_addNotes"
+            app:destination="@id/addNotes" />
+    </fragment>
+    <fragment
+        android:id="@+id/addNotes"
+        android:name="com.nihad.notes.ui.notes.main.AddNotesFragment"
+        android:label="add_notes_fragment"
+        tools:layout="@layout/add_notes_fragment" />
+</navigation>

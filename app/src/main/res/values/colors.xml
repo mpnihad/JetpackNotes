@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="violet200">#FF57314B</color>
+    <color name="violet500">#FF7B5D71</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="purple200">#FFBB86FC</color>
+
+    <color name="purple500">#FF6200EE</color>
+    <color name="purple700">#FF3700B3</color>
+    <color name="teal200">#FF03DAC5</color>
+    <color name="orange200">#FFFD8A4E</color>
+
+    <color name="bgwhite">#FFEEEEF2</color>
+    <color name="bgblack">#FF1A2C50</color>
+
+
+
+    <color name="shadow11">#ff001787</color>
+    <color name="Shadow10">#ff00119e</color>
+    <color name="Shadow9">#ff0009b3</color>
+    <color name="Shadow8">#ff0200c7</color>
+    <color name="Shadow7">#ff0e00d7</color>
+    <color name="Shadow6">#ff2a13e4</color>
+    <color name="Shadow5">#ff4b30ed</color>
+    <color name="Shadow4">#ff7057f5</color>
+    <color name="Shadow3">#ff9b86fa</color>
+    <color name="Shadow2">#ffc8bbfd</color>
+    <color name="Shadow1">#ffded6fe</color>
+    <color name="Shadow0">#fff4f2ff</color>
+
+    <color name="Ocean11">#ff005687</color>
+    <color name="Ocean10">#ff006d9e</color>
+    <color name="Ocean9">#ff0087b3</color>
+    <color name="Ocean8">#ff00a1c7</color>
+    <color name="Ocean7">#ff00b9d7</color>
+    <color name="Ocean6">#ff13d0e4</color>
+    <color name="Ocean5">#ff30e2ed</color>
+    <color name="Ocean4">#ff57eff5</color>
+    <color name="Ocean3">#ff86f7fa</color>
+    <color name="Ocean2">#ffbbfdfd</color>
+    <color name="Ocean1">#ffd6fefe</color>
+    <color name="Ocean0">#fff2ffff</color>
+
+    <color name="Lavender11">#ff170085</color>
+    <color name="Lavender10">#ff23009e</color>
+    <color name="Lavender9">#ff3300b3</color>
+    <color name="Lavender8">#ff4400c7</color>
+    <color name="Lavender7">#ff5500d7</color>
+    <color name="Lavender6">#ff6f13e4</color>
+    <color name="Lavender5">#ff8a30ed</color>
+    <color name="Lavender4">#ffa557f5</color>
+    <color name="Lavender3">#ffc186fa</color>
+    <color name="Lavender2">#ffdebbfd</color>
+    <color name="Lavender1">#ffebd6fe</color>
+    <color name="Lavender">#fff9f2ff</color>
+
+    
+    
+</resources>

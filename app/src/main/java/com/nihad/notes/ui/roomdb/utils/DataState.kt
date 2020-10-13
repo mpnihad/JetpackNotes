@@ -1,0 +1,9 @@
+package com.nihad.notes.ui.roomdb.utils
+
+sealed class DataState<out R> {
+
+    data class Success<out T>(val data: T) : DataState<T>()
+    data class ErrorSave<out T>(val data: T) : DataState<T>()
+    data class Error(val exception: Exception) : DataState<Nothing>()
+    object Loading : DataState<Nothing>()
+}
